@@ -1,0 +1,32 @@
+[
+  {
+    "id": "yokot",
+    "name": "Йошкин кот",
+    "address": "Ленинский проспект, 24В",
+    "geoPosition": "https://yandex.ru/maps/org/90922704644"
+  },
+  {
+    "id": "twelve",
+    "name": "Часы 12 апостолов",
+    "address": "Царьградский проспект, 37",
+    "geoPosition": "https://yandex.ru/maps/org/206941559874"
+  },
+  {
+    "id": "blagoSobor",
+    "name": "Благовещенский собор",
+    "address": "Воскресенская набережная, 32",
+    "geoPosition": "https://yandex.ru/maps/org/1383234086"
+  },
+  {
+    "id": "spASSTower",
+    "name": "Спасская башня",
+    "address": "набережная Брюгге, 6",
+    "geoPosition": "https://yandex.ru/maps/org/54260355123"
+  },
+  {
+    "id": "korepovy",
+    "name": "Дом купцов Кореповых 1911 г.",
+    "address": "Вознесенская, 49",
+    "geoPosition": "https://yandex.ru/maps/org/26839551026"
+  }
+]

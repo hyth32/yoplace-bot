@@ -1,0 +1,27 @@
+[
+  {
+    "id": "centr",
+    "name": "Центральный парк культуры и отдыха",
+    "geoPosition": "https://yandex.ru/maps/org/120385050"
+  },
+  {
+    "id": "pobeda",
+    "name": "Парк Победы",
+    "geoPosition": "https://yandex.ru/maps/org/120385015"
+  },
+  {
+    "id": "mnogolet",
+    "name": "Парк Культуры и Отдыха имени 400-летия Йошкар-Олы",
+    "geoPosition": "https://yandex.ru/maps/org/120385296"
+  },
+  {
+    "id": "sunday",
+    "name": "Воскресенский парк, Арка",
+    "geoPosition": "https://yandex.ru/maps/org/236690612381"
+  },
+  {
+    "id": "sosni",
+    "name": "Сосновая Роща",
+    "geoPosition": "https://yandex.ru/maps/org/197568595481"
+  }
+]
